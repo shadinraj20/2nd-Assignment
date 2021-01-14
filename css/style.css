@@ -1,0 +1,17 @@
+.common{
+    height: 350px;
+    background-color: rgba(128, 128, 128, 0.103);
+    border-radius: 10px;
+    width: 330PX;
+    margin: 0 auto;
+    
+}
+
+.box-cart{
+    background:0 !important;
+    box-shadow: 10px 10px 20px gray;
+}
+.box-cart-footer{
+    border:0;
+    background-color: white;
+}
